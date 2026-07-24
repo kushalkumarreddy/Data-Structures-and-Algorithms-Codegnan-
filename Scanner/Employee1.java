@@ -7,8 +7,6 @@ import java.util.Scanner;
 public class Employee1 {
 	public static void main(String[] args) {
 		
-		
-		
 //		byte experience = 0;
 //		short departmentId = 0;
 //		int employeeId = 0;

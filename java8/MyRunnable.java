@@ -16,7 +16,7 @@ public class MyRunnable {
 			Runnable r=() -> {
 				for(int i=0;i<=10;i++) {
 					System.out.println("Seetha thread");
-				}				
+				}
 			};
 			
 //			MyRunnable mr = new MyRunnable();

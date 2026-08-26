@@ -28,9 +28,6 @@ public class PreInter {
 		System.out.println(f1.apply(22));
 		System.out.println(f1.apply(32));
 		
-		
-		
-		
 	}
 
 }

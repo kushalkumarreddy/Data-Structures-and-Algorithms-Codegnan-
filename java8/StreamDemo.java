@@ -128,10 +128,11 @@ public class StreamDemo {
 
 	        // Stream sorting
 	        System.out.println("\nNames sorted using Stream:");
-
+	
 	        names.stream()
 	                .sorted()
 	                .forEach(System.out::println);
+	        
 	    }
 
 }
